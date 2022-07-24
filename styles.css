@@ -1,0 +1,23 @@
+* {
+    font-family: 'Inter', sans-serif;
+}
+
+header {
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 0.68), rgba(0, 0, 0, 0.637)), url("images/donation3.jpg");
+    margin: 0;
+    text-align: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+
+}
+
+.header-title {
+
+    margin-top: 0;
+    padding-top: 50px;
+}
+
+.header-article {
+    padding-bottom: 70px;
+}
